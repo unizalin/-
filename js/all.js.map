@@ -1,0 +1,1 @@
+{"version":3,"sources":["all.js","all2.js"],"names":["newFN","newFN2"],"mappings":"aAAA,IAAIA,MAAQ,aCARC,OAAS","file":"all.js","sourcesContent":["let newFN = () => {\r\n  console.log('a');\r\n}\r\n","let newFN2 = () => {\r\n  console.log('a');\r\n}\r\n"]}
